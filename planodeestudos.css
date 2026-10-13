@@ -1,0 +1,23 @@
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Times, Times New Roman, serif;
+}
+body {
+background-color: #e599b2;
+color: #650e31;
+line-height: 1.6;
+padding: 20px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 200%;
+text-align: center;
+}
+table {
+background-color: #fff0f5;
+margin: 0 auto;
+padding: 2rem;
+text-align: center;
+border-radius: 12px;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
